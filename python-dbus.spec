@@ -14,7 +14,7 @@ BuildRequires:	automake
 BuildRequires:	cpp
 BuildRequires:	dbus-glib-devel
 BuildRequires:	libtool
-BuildRequires:	pkgconfig
+BuildRequires:	pkg-config
 BuildRequires:	python-devel
 BuildRequires:	rpm-pythonprov
 %pyrequires_eq	python-modules
